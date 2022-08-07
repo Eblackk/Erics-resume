@@ -31,4 +31,4 @@ High School Diploma, May 2014
 * Extracurricular activities: Football 
 Heavy Highway Construction Program
 Certificate, July 2014
-* Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenchesCD
+* Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenchesCD  
