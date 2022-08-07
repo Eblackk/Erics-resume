@@ -10,20 +10,24 @@
     * Locate gas lines underground, run the service up to the riser, fuse and tap, complete air pressure test, run 
     tracer wire. 
     * Survey work site to ensure proper clean up. 
+
 ### Cambridge -Wyndham (Laborer/Operator) 05/2019-11/2019
 * #### 188.Fries Mill Road, Turnersville, NJ 08012
     * Operated heavy equipment (excavator, loader, skidsteer, backhoe, and roller). Installed catch basins and 
     manholes. 
     * Accurately read blueprints to ensure storm drainpipe was installed properly. 
+
 ### Eastern States (Laborer/Operator/Pipe Layer)
 * #### 702 First State Blvd, Wilmington, DE 19804 04/2018-05/2019
     * Ran trench keeping grade to install water main. Graded out hot mix. 
+
 ### Southco Inc. (Material Handler) 
 * #### 210 N Brinton Lake Rd, Concordville, PA 19331 03/2015 to 08/2016
     * Maintained safety while using lift machine to retrieve parts in high storage. 
     * Retrieved materials needed to assemble key locks, latches, and car parts. 
     * Operated machines piecing together car parts
     * Used SAP to keep track of inventory, and parts needed.
+    
 ## Education
 Middletown High School
 High School Diploma, May 2014
