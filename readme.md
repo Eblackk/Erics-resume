@@ -1,6 +1,7 @@
 # Eric Blackson Jr.
 * (302) 465-5106
 * aps14blacerig@gmail.com
+
 ## Professional Experience
 ### Brandywine (Journeyman Laborer/Pipe Layer) 
 * #### 101 Pidgeon Point Road, New Castle, DE 19720 11/2019-07/2022 
@@ -27,7 +28,7 @@
     * Retrieved materials needed to assemble key locks, latches, and car parts. 
     * Operated machines piecing together car parts
     * Used SAP to keep track of inventory, and parts needed.
-    
+
 ## Education
 Middletown High School
 High School Diploma, May 2014
