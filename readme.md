@@ -1,5 +1,4 @@
 # Eric Blackson Jr.
-* 10 E Abbey Drive Townsend DE, 19734
 * (302) 465-5106
 * aps14blacerig@gmail.com
 ## Professional Experience
