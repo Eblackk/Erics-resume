@@ -1,8 +1,11 @@
 # Eric Blackson Jr.
 * (302) 465-5106
-* aps14blacerig@gmail.com
+* Aps14blacerig@gmail.com
 
 ## Professional Experience
+### Austin & Bednash Construction 
+##### 32 Brookhill Dr, Newark, DE 19702
+
 ### Brandywine (Journeyman Laborer/Pipe Layer) 
 * ##### 101 Pidgeon Point Road, New Castle, DE 19720 11/2019-07/2022 
     * Strictly adhere to company’s safety rules, regulations, and procedures to maintain safety of self, 
