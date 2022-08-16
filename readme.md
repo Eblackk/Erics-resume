@@ -41,6 +41,6 @@ Certificate, July 2014
 * Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenchesCD  
 
 # Skills
-## * Java
-## * Version Control Management
+ * ### Java
+ * ### Version Control Management
 
