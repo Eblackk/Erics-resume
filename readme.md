@@ -42,7 +42,5 @@ Certificate, July 2014
 
 # Skills
 ## * Java
-## * JavaScript
-## * Software Engingneering 
 ## * Version Control Management
 
