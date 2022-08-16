@@ -1,3 +1,21 @@
+{% assign linkedin = "https://www.linkedin.com/in/eric-blackson-972b7193/" %}
+{% assign email    = "Aps14blacerig@gmail.com" %}
+{% assign username = "eblackk" %}
+{% capture repository %}
+    https://{{ username }}.github.io/resume
+{% endcapture %}
+
+<table>
+   <tr>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
+      </td>
+   </tr>
+</table>
+
 # Eric Blackson Jr.
 * (302) 465-5106
 * Aps14blacerig@gmail.com
