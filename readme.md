@@ -1,6 +1,6 @@
 {% assign linkedin = "https://www.linkedin.com/in/eric-blackson-972b7193/" %}
 {% assign email    = "Aps14blacerig@gmail.com" %}
-{% assign username = "eblackk" %}
+{% assign username = "Eblackk" %}
 {% capture repository %}
     https://{{ username }}.github.io/resume
 {% endcapture %}
@@ -20,7 +20,21 @@
 * (302) 465-5106
 * Aps14blacerig@gmail.com
 
+# Summary
+
+
+## Education
+Middletown High School
+High School Diploma, May 2014
+* Extracurricular activities: Football 
+Heavy Highway Construction Program
+Certificate, July 2014
+* Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenches 
+
+
+
 ## Professional Experience
+
 ### Austin & Bednash Construction 
 ##### 32 Brookhill Dr, Newark, DE 19702
 
@@ -50,15 +64,10 @@
     * Operated machines piecing together car parts
     * Used SAP to keep track of inventory, and parts needed.
 
-## Education
-Middletown High School
-High School Diploma, May 2014
-* Extracurricular activities: Football 
-Heavy Highway Construction Program
-Certificate, July 2014
-* Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenchesCD  
-
 # Skills
- * ### Java
+ * ### Spring Boot
+ * ### GitHub
  * ### Version Control Management
-
+ * ### Java
+ * ### JavaScript
+ 
