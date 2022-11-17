@@ -16,14 +16,27 @@
    </tr>
 </table>
 
-# Eric Blackson Jr.
+# Eric Blackson Jr
 * (302) 465-5106
 * Aps14blacerig@gmail.com
 
 # Summary
+## Aspiring Software Engineer who is eager to contribute, learn, and grow. Currently completing a Full Stack Java Developer program, with a focus on Command Line Scripting(Powershell, Git Bash), Version Control Software(GitHub), IDEs(IntelliJ, VSCode), Java Web Development(Maven, Spring Boot), Deployment(Heroku, Render).
 
 
 ## Education
+ Curriculeon -Full Stack Java Web Developer Course
+June 2022 - present
+* Spring Boot
+* Git Bash
+* GitHub
+* Version Control Management
+* Java
+* JavaScript
+
+
+
+
 Middletown High School
 High School Diploma, May 2014
 * Extracurricular activities: Football 
@@ -67,7 +80,8 @@ Certificate, July 2014
 # Skills
  * ### Spring Boot
  * ### GitHub
+ * ### Git Bash
  * ### Version Control Management
  * ### Java
  * ### JavaScript
- 
+ * ### HTML 
