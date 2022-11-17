@@ -21,7 +21,7 @@
 * Aps14blacerig@gmail.com
 
 # Summary
-## Aspiring Software Engineer who is eager to contribute, learn, and grow. Currently completing a Full Stack Java Developer program, with a focus on Command Line Scripting(Powershell, Git Bash), Version Control Software(GitHub), IDEs(IntelliJ, VSCode), Java Web Development(Maven, Spring Boot), Deployment(Heroku, Render).
+### Aspiring Software Engineer who is eager to contribute, learn, and grow. Currently completing a Full Stack Java Developer program, with a focus on Command Line Scripting(Powershell, Git Bash), Version Control Software(GitHub), IDEs(IntelliJ, VSCode), Java Web Development(Maven, Spring Boot), Deployment(Heroku, Render).
 
 
 ## Education
