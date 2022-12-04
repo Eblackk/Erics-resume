@@ -33,6 +33,7 @@ June 2022 - present
 * Version Control Management
 * Java
 * JavaScript
+* HTML
 
 
 
