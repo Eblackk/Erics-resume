@@ -1,59 +1,30 @@
-{% assign linkedin = "https://www.linkedin.com/in/eric-blackson-972b7193/" %}
-{% assign email    = "Aps14blacerig@gmail.com" %}
-{% assign username = "Eblackk" %}
-{% capture repository %}
-    https://{{ username }}.github.io/resume
-{% endcapture %}
-
-<table>
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
-      </td>
-   </tr>
-</table>
-
 # Eric Blackson Jr
-* (302) 465-5106
+* (302) 465-9933
 * Aps14blacerig@gmail.com
 
-## Summary
- Aspiring Software Engineer who is eager to contribute, learn, and grow. Currently completing a Full Stack Java Developer program, with a focus on Command Line Scripting(Powershell, Git Bash), Version Control Software(GitHub), IDEs(IntelliJ, VSCode), Java Web Development(Maven, Spring Boot), Deployment(Heroku, Render).
+
 
 
 ## Education
- Curriculeon -Full Stack Java Web Developer Course
-June 2022 - present
-* Spring Boot
-* Git Bash
-* GitHub
-* Version Control Management
-* Java
-* JavaScript
-* HTML
-
-
-
-
 Middletown High School
-High School Diploma, May 2014
-* Extracurricular activities: Football 
+* High School Diploma, May 2014
+* Extracurricular activities: Football, 
 Heavy Highway Construction Program
 Certificate, July 2014
 * Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenches 
 
-
-
 ## Professional Experience
 
-### Austin & Bednash Construction 
-##### 32 Brookhill Dr, Newark, DE 19702
+### Mumford & Miller Concrete 04/2023- Present
+* ##### 1001 Industrial dr, Middletown, DE, 19709
+    * Strictly adhere to company’s safety rules, regulations, and procedures to maintain safety of self, 
+    coworkers, and community. Wearing PPE (safety glasses, hard hats, and steel toe boots).
+    *  Grade for concrete (sidewalk, Curbs, Etc.) Form and pour concrete. Intsall storm drain along with catch basins. Lay asphalt.
+    * Operate heavy  equipment (Front end loader, backhoe.)
+
 
 ### Brandywine (Journeyman Laborer/Pipe Layer) 
-* ##### 101 Pidgeon Point Road, New Castle, DE 19720 11/2019-07/2022 
+* ##### 101 Pidgeon Point Road, New Castle, DE 19720 11/2019-04/2023
     * Strictly adhere to company’s safety rules, regulations, and procedures to maintain safety of self, 
     coworkers, and community. Wearing PPE (safety glasses, hard hats, and steel toe boots). 
     * Installation of water mains, fire hydrants, and water services to houses within the community. 
@@ -73,11 +44,4 @@ Certificate, July 2014
 
 
 
-# Skills
- * ### Spring Boot
- * ### GitHub
- * ### Git Bash
- * ### Version Control Management
- * ### Java
- * ### JavaScript
- * ### HTML 
+
