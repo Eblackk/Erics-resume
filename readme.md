@@ -27,7 +27,7 @@ Certificate, July 2014
 * ##### 101 Pidgeon Point Road, New Castle, DE 19720 11/2019-04/2023
     * Strictly adhere to company’s safety rules, regulations, and procedures to maintain safety of self, 
     coworkers, and community. Wearing PPE (safety glasses, hard hats, and steel toe boots). 
-    * Installation of water mains, fire hydrants, and water services to houses within the community. 
+    * Installation of water mains,sewer, fire hydrants, and water services to houses within the community. 
     * Locate gas lines underground, run the service up to the riser, fuse and tap, complete air pressure test, run 
     tracer wire. 
     * Survey work site to ensure proper clean up. 
@@ -38,9 +38,18 @@ Certificate, July 2014
     manholes. 
     * Accurately read blueprints to ensure storm drainpipe was installed properly. 
 
-### Eastern States (Laborer/Operator/Pipe Layer)
-* ##### 702 First State Blvd, Wilmington, DE 19804 04/2018-05/2019
+### Eastern States (Laborer/Operator/Pipe Layer) 04/2018-05/2019
+* ##### 702 First State Blvd, Wilmington, DE 19804 
     * Ran trench keeping grade to install water main. Graded out hot mix. 
+    * Sewer line
+    * Fused pipe
+    * Operate heavy equipment (loader, excavator, scrapers.)
+
+## Skills
+* Reading blueprints
+* Efficient in Mircosoft applications(Word,excel, etc.)
+* Detail oriented
+* Reliable 
 
 
 
