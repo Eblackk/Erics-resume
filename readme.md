@@ -14,8 +14,16 @@ Certificate, July 2014
 * Trained how to properly lay/pack down asphalt, use pneumatic tools and dig trenches 
 
 ## Professional Experience
+### RK&K (Construction Inspector) 03- Present
+* ##### 750 Shipyard Dr, Wilmington, DE, 19801
+    * As a construction inspector in RK&K's Construction/CEI division you will perform complex and routine inspections of construction to evaluate if appropriate materials and construction processes are being used; and that construction conforms to plans, specifications, and special provisions. 
+    * Review drawings to prepare for the inspection and understand the design of the construction that will be inspected.
+    * Create daily reports, document the results of the inspection, and maintain organized, detailed, and up to date field files.
+    * Administer and implement the quality assurance/quality control programs of the client and/or contract.
+    * Conduct field measurements to establish quantities for pay item documentation as well as other contract administration documentation.
 
-### Mumford & Miller Concrete 04/2023- Present
+
+### Mumford & Miller Concrete 04/2023- 03/2024
 * ##### 1001 Industrial dr, Middletown, DE, 19709
     * Strictly adhere to company’s safety rules, regulations, and procedures to maintain safety of self, 
     coworkers, and community. Wearing PPE (safety glasses, hard hats, and steel toe boots).
